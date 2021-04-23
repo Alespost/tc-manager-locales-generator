@@ -1,0 +1,170 @@
+{
+  "extension_name": {
+    "cs": "TC Manager",
+    "en": "TC Manager"
+  },
+  "extension_description": {
+    "cs": "Spravujte souhlasy se zpracováním osobních údajů na webových stránkách, které využívají TCF v2.0 od organizace IAB Europe.",
+    "en": "Manage consents to the processing of personal data at websites that use IAB Europe's TCF v2.0."
+  },
+  "options_title": {
+    "cs": "Nastavení TC Manager",
+    "en": "TC Manager Options"
+  },
+  "options_header": {
+    "cs": "Nastavení",
+    "en": "Settings"
+  },
+  "nav_options": {
+    "cs": "Nastavení souhlasu s účely zpracování",
+    "en": "Consent settings for processing purposes"
+  },
+  "nav_description": {
+    "cs": "Popisy účelů",
+    "en": "Description of purposes"
+  },
+  "nav_options_vendor": {
+    "cs": "Nastavení souhlasu prodejcům",
+    "en": "Vendor consent settings"
+  },
+  "nav_about": {
+    "cs": "O rozšíření",
+    "en": "About"
+  },
+  "reset_to_defaults": {
+    "cs": "Obnovit výchozí nastavení",
+    "en": "Restore default settings"
+  },
+  "reset_to_defaults_tooltip": {
+    "cs": "Nastaví všechny položky globálního nastavení na nesouhlas. Dómény budou využívat globální nastavení.",
+    "en": "Sets all global setting items to objection. Domains will use global settings."
+  },
+  "remove_domains": {
+    "cs": "Odstranit nastavení domén",
+    "en": "Delete domain settings"
+  },
+  "remove_domains_tooltip": {
+    "cs": "Odstraní záznamy o všech doménách.",
+    "en": "Deletes records for all domains."
+  },
+  "use_global_all": {
+    "cs": "Použít globální nastavení",
+    "en": "Use global settings"
+  },
+  "use_global_all_tooltip": {
+    "cs": "Změní nastavení domén na použití globálního nastavení.",
+    "en": "Changes domain settings to use global settings."
+  },
+  "use_global_domain_tooltip": {
+    "cs": "Obnoví nastavení na použití globálního nastavení.",
+    "en": "Resets settings to use global settings."
+  },
+  "remove_domain_tooltip": {
+    "cs": "Odstraní záznam.",
+    "en": "Deletes the record."
+  },
+  "options_global": {
+    "cs": "Globální nastavení",
+    "en": "Global settings"
+  },
+  "no_tcf": {
+    "cs": "Tento web nepoužívá Transparency & Consent Framework od organizace IAB Europe.",
+    "en": "This website does not use IAB Europe's Transparency & Consent Framework."
+  },
+  "unknown_cmp": {
+    "cs": "Neznámé CMP",
+    "en": "Unknown CMP"
+  },
+  "cmp_header": {
+    "cs": "CMP",
+    "en": "CMP"
+  },
+  "consent_header": {
+    "cs": "Souhlas se zpracováním osobních údajů",
+    "en": "Consent to the processing of personal data"
+  },
+  "purposes_header": {
+    "cs": "Účely",
+    "en": "Purposes"
+  },
+  "special_features_header": {
+    "cs": "Zvláštní funkce",
+    "en": "Special Features"
+  },
+  "vendors_header": {
+    "cs": "Prodejci s uděleným souhlasem",
+    "en": "Vendors with consent"
+  },
+  "vendor_list_header": {
+    "cs": "Seznam prodejců",
+    "en": "Vendor list"
+  },
+  "actions_header": {
+    "cs": "Akce",
+    "en": "Action"
+  },
+  "about_header": {
+    "cs": "O TC Manager",
+    "en": "About"
+  },
+  "version": {
+    "cs": "Verze",
+    "en": "Version"
+  },
+  "author_header": {
+    "cs": "Autor",
+    "en": "Author"
+  },
+  "name": {
+    "cs": "Jméno",
+    "en": "Name"
+  },
+  "email": {
+    "cs": "Email",
+    "en": "Email"
+  },
+  "organization": {
+    "cs": "Organizace",
+    "en": "Organization"
+  },
+  "org_name": {
+    "cs": "Fakulta informačních technologií VUT v Brně",
+    "en": "Faculty of Information Technology, BUT"
+  },
+  "used_icons_header": {
+    "cs": "Použité ikony",
+    "en": "Used icons"
+  },
+  "icons_taken_from": {
+    "cs": "Následující ikony byly převzaty z",
+    "en": "The following icons were taken from"
+  },
+  "license": {
+    "cs": "Licence",
+    "en": "License"
+  },
+  "vendor_list_version": {
+    "cs": "Verze seznamu prodejců",
+    "en": "Vendor list version"
+  },
+  "vendor_count": {
+    "cs": "Počet prodejců",
+    "en": "Number of vendors"
+  },
+  "vendor_name_header": {
+    "cs": "Jméno",
+    "en": "Name"
+  },
+  "policy_link": {
+    "cs": "Odkaz na politiku",
+    "en": "Policy link"
+  },
+  "link": {
+    "cs": "Odkaz",
+    "en": "Link"
+  },
+  "vendor_choice": {
+    "cs": "Volba",
+    "en": "Choice"
+  }
+}
