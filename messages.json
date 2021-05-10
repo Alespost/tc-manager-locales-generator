@@ -166,5 +166,33 @@
   "vendor_choice": {
     "cs": "Volba",
     "en": "Choice"
+  },
+  "consent": {
+    "cs": "souhlas",
+    "en": "consent"
+  },
+  "objection": {
+    "cs": "námitka",
+    "en": "objection"
+  },
+  "inherited": {
+    "cs": "zděděno",
+    "en": "inherited"
+  },
+  "consent_extended": {
+    "cs": "udělen souhlas",
+    "en": "consent provided"
+  },
+  "objection_extended": {
+    "cs": "vznesena námitka",
+    "en": "objected"
+  },
+  "inherited_consent": {
+    "cs": "udělen souhlas (zděděno)",
+    "en": "consent provided (inherited)"
+  },
+  "inherited_objection": {
+    "cs": "vznesena námitka (zděděno)",
+    "en": "objected (inherited)"
   }
 }
